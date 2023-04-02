@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berat Aydın</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0lBoMRyjRQj1awWZAEe8W9&ust=1680541023509000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDInajVi_4CFQAAAAAdAAAAABAE](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="Coding">
+<img width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0lBoMRyjRQj1awWZAEe8W9&ust=1680541023509000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDInajVi_4CFQAAAAAdAAAAABAE](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="Coding">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
