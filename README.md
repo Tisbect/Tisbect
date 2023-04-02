@@ -20,3 +20,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/berataydin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berataydin" /></a></p><br><br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ahmetozmtn&&style=flat-square" align="center" />
+</div>
