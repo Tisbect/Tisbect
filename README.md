@@ -21,6 +21,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/berataydin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berataydin" /></a><a href="https://ko-fi.com/berataydin"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="berataydin" /></a></p><br><br><br><br><br><br><br>
 
-<div style="justify-content:center;">
+<div>
 <img style="display:flex; justify-content:center;" src="https://komarev.com/ghpvc/?username=Berat-Aydin&&style=flat-square" align="center" />
 </div>
