@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berat Aydın</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="center" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+<img align="center" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
