@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berat Aydın</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
 <div align="center">
 <img width="375px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 </div>
@@ -20,7 +20,7 @@
 
 
 
-<h4 align="center" font-size="50px">Frontend</h4>   
+<h4 align="center">Frontend</h4>   
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
