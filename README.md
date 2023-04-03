@@ -34,7 +34,7 @@
 <a rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-</p>
+</p><hr>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/berataydin"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" height="50" width="210" alt="berataydin" /></a><a href="https://ko-fi.com/berataydin"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" align="right" height="50" width="210" alt="berataydin" /></a></p><br><br><br><br><br>
