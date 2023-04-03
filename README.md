@@ -13,7 +13,7 @@
 <a href="https://instagram.com/berataydinofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berataydinofficial" height="40" width="40" /></a>
 <a href="https://www.behance.net/berataydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="berataydin" height="40" width="40" /></a>
 <a href="https://medium.com/@berat_aydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berat_aydin" height="40" width="40" /></a>
-</p>
+</p><hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
