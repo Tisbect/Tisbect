@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berat Aydın</h1>
-<h2 align="center">Full Stack Developer</h2>
+<h3 align="center">Full Stack Developer</h3>
 <div align="center">
 <img width="375px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 </div>
