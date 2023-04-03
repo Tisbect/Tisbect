@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Berat Aydın</h1>
 <h3 align="center">Full Stack Developer</h3>
+
 <div align="center">
+ 
 <img width="375px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+ 
 </div>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
+ 
 <a href="https://twitter.com/berataydin_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berataydin_" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/berat-aydın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berat-aydın" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/20613101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20613101" height="40" width="40" /></a>
@@ -13,15 +18,16 @@
 <a href="https://instagram.com/berataydinofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berataydinofficial" height="40" width="40" /></a>
 <a href="https://www.behance.net/berataydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="berataydin" height="40" width="40" /></a>
 <a href="https://medium.com/@berat_aydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berat_aydin" height="40" width="40" /></a>
+ 
 </p><hr>
 
-<h3 align="center">My Skill Set</h3>  
+<h3 align="center">My Skill Set</h3>
+
 <table><tr><td valign="top" width="33%">
-
-
-
-<h2 align="center">Frontend</h2>   
-<div align="center">  
+<h2 align="center">Frontend</h2>
+ 
+<div align="center">
+ 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -29,10 +35,11 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
+ 
 </div>
 
-</td><td valign="top" width="33%">
+<td valign="top" width="33%">
 
 
 
