@@ -72,7 +72,7 @@
 <p align="center">
  <a href="https://www.buymeacoffee.com/berataydin"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berataydin" /></a><a href="https://ko-fi.com/berataydin"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="berataydin" /></a>
 </p>
-<br><br><br><hr>
+<hr>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Berat-Aydin&&style=flat-square" />
