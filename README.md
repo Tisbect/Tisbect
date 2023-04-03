@@ -28,6 +28,8 @@
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -66,7 +68,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>   
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/berataydin"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" height="50" width="210" alt="berataydin" /></a><a href="https://ko-fi.com/berataydin"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" align="right" height="50" width="210" alt="berataydin" /></a></p><br><br><br><br><br>
